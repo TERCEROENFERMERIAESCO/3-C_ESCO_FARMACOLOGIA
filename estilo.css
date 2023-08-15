@@ -1,0 +1,462 @@
+
+
+.img2
+{
+      width: 159px
+      
+
+}
+.logi{
+    text-align: right;
+}
+.a{
+    color: black;
+}
+
+body{
+    background-color:lightblue;
+    min-height: 100vh;
+    margin: 0;
+    gap: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+    
+   
+
+}
+header{
+    width: 200px;
+}
+ nav ul{
+margin: 0;
+padding: 0;
+list-style: none;
+ }
+
+ 
+
+ nav ul{
+    box-sizing: border-box;
+    color: lightblue;
+    display: block;
+    width: 100%;
+    padding: 6px 10px;
+    text-decoration: none;
+    line-height: 16px;
+
+ }
+
+nav  ul  ul{
+    height: 0px;
+    overflow: hidden;
+    transition: 0.4s;
+
+
+}
+nav  ul li:hover  ul{
+    height: 460px;
+}
+
+nav ul  a{
+   box-sizing: border-box;
+    color: black;
+    display: block;
+    width: 90%;
+    padding: 6px 10;
+    
+}
+.quienes{
+    
+    width: 950px;
+    
+    
+    
+
+}
+.somos{
+    text-align: center;
+}
+.anti{
+    width: 600px;
+}
+.antii{
+    text-align: center;
+}
+.antiviral{
+    width: 700px; 
+}
+.antivi{
+    text-align: center;
+}
+.amino{
+    width:600px ;
+}
+.aminoglucosidos{
+    text-align: center;
+}
+.lonas{
+    width: 600px;
+}
+.quino{
+    text-align: center;
+}
+.macrolidos{
+    width: 650px;
+}
+.macro{
+    text-align: center;
+
+}
+.cilinas{
+    width: 650px;
+}
+.tetra{
+    text-align: center;
+}
+
+.lino{
+    text-align: center;
+}
+.lin{
+    width: 650px;
+}
+.ticos{
+    width: 650px;
+}
+.mico{
+    text-align: center;
+}
+.les{
+    width: 650px;
+}
+.vira{
+text-align: center;
+}
+.lo{
+    text-align: center;
+}
+.cos{
+    width: 600px;
+}
+.antisimicos1 {
+    width: 300px;
+}
+.antisimicos2{
+    width: 500px;
+}
+.antisimicos{
+    width: 350px;
+}
+.mi{
+   text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.generación1{
+    padding-left: 33%;
+    
+}
+.gneración2{
+    padding-left: 42%;
+ 
+  
+
+}
+.ner{
+    text-align: center;
+}
+.gicos{
+    width: 550px;
+}
+.to{
+    text-align: center;
+}
+.rios{
+    width: 550px;;
+}
+.muscu{
+    text-align: center;
+}
+.lares{
+    width: 550px;
+}
+.corti{
+text-align: center;
+}
+.to{
+    width: 550pxpx;
+}
+.fab{
+    text-align: center;
+}
+.bo{
+    width: 250px;
+}
+.mom{
+    text-align: center;
+}
+.ti{
+    width: 600px;
+}
+.se{
+    text-align: center;
+
+}
+.cre{
+    width: 550px;
+}
+.obesi{
+    text-align: center;
+
+}
+.dad{
+    width: 550px;
+}
+
+.hi{
+    text-align: center;
+
+}
+.po{
+    width: 550px;
+}
+.vi{
+    text-align: center;
+}
+.ta{
+    width: 500px;
+}
+.pap{
+    text-align: center;
+}
+.ra{
+width: 550px;
+}
+.li{
+    text-align: center;
+}
+.ticos{
+    width: 550px;
+}
+.muscu{
+    text-align: center;
+
+}
+.lares{
+    width: 550px;
+}
+.tesi{
+    text-align: center;
+}
+.cos{
+    width: 550px;
+}
+.gene{
+    text-align: center;
+
+}
+.rales{
+    width: 550px;
+}
+
+.opia{
+    text-align: center;
+}
+.ceos{
+    width: 550px;
+}
+.no{
+    text-align: center;
+
+}
+.tico{
+    width: 550px;
+}
+.antip{
+text-align: center;
+
+}
+.psi{
+    width: 550px;
+}
+.de{
+    text-align: center;
+}
+.pre{
+    width: 550px;
+}
+.de{
+    text-align: center;
+}
+.pre{
+    width: 550px;
+}
+.pi{
+    text-align: center;
+}
+.lep{
+    width: 550px;
+}
+.neuro{
+    text-align: center;
+}
+.dege{
+    width: 550px;
+}
+.al{
+    text-align: center;
+}
+
+.zhe{
+    width: 550px;
+}
+.es{
+    text-align: center;
+}
+.tro{
+    width: 550px;
+}
+.gesta{
+    text-align: center;
+}
+.genos{
+    width: 550px;
+}
+.hor{
+    text-align: center;
+    justify-content: center;
+}
+.mo{
+    width: 550px;
+}
+.comple{
+    width: 550px;
+}
+.ox{
+    text-align: center;
+}
+.xi{
+    width: 550px;
+}
+.dr{
+    text-align: center;
+}
+.o{
+    width: 550px;
+}
+.s{
+    width: 550px;
+}
+.creci{
+text-align: center;
+}
+.li{
+    text-align: center;
+}
+.be{
+    width: 550px;
+}
+.es{
+    text-align: center;
+}
+.tro{
+    width: 550px;
+}
+.anti2{
+    text-align: center;
+}
+.troge2{
+    width: 550px;
+}
+.ge2{
+    text-align: center;
+}
+.genos2{
+    width: 550px;
+}
+.di{
+    text-align: center;
+}
+.u{
+    width: 540px;
+}
+.bet{
+    text-align: center;
+}
+.a{
+    width: 550px;
+}
+.al{
+    text-align: center;
+}
+.fa{
+    width: 550px;
+}
+.ca{
+    text-align: center;
+}
+.na{
+    width: 550px;
+}
+.ang{
+    text-align: center;
+}
+.ii{
+width: 550px;
+}
+.ino{
+    text-align: center;
+}
+.trop{
+    width: 550px;
+}
+.rri{
+    text-align: center;
+}
+.tm{
+    width: 550px;
+}
+.nem{
+    text-align: center;
+}
+.icos{
+width: 550px;
+}
+.dila{
+    text-align: center;
+}
+.la{
+    width: 550px;
+}
+.tu{
+    text-align: center;
+}
+.si{
+    width: 550px;
+}
+.ex{
+    text-align: center;
+}
+.pe{
+    width: 550px;
+}
+.mu{
+    text-align: center;
+}
+.co{
+    width: 550px;
+}
+.ur{
+    text-align: center;
+}
+.cos{
+    width: 550px;
+}
+.sim{
+    text-align: center;
+}
+.pa{
+    width: 550px;
+}
